@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'wordpressM'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B73E114EE1A948F6AA297F9731139AB7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9824C0069C9B4787A06B45DEFAB1397B }}
           package: .
